@@ -1,6 +1,12 @@
-# sac_practices
+# SAC Practices - Firestore emulator suite (Web, IOS & Android)
 
-A new Flutter application.
+Flutter connect to local emulator and test with web, ios & andoird emulators.
+
+Firebase emulator suite
+
+https://firebase.google.com/docs/emulator-suite
+
+https://firebase.flutter.dev/docs/installation/android
 
 ## Getting Started
 
@@ -14,5 +20,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# SAC-Practices-Firestore-emulator
-# SAC-Practices-Firestore-emulator
