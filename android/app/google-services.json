@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "890894798228",
+    "firebase_url": "https://sacpractices.firebaseio.com",
+    "project_id": "sacpractices",
+    "storage_bucket": "sacpractices.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890894798228:android:2a39ea64a0957bda919381",
+        "android_client_info": {
+          "package_name": "com.example.sac_practices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890894798228-nl0ilhou5rokp5nndvr80ffp00965n7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sac_practices",
+            "certificate_hash": "1ebea810c6d0d96e304f48be701abcd6e851f719"
+          }
+        },
+        {
+          "client_id": "890894798228-h48rhbaa1cb3tu7ncrq3esmfrer78fcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD12E7O09fBAVk4iucXov0AZSRv0yQIcVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890894798228-h48rhbaa1cb3tu7ncrq3esmfrer78fcb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890894798228-nqdcropb8jur0qdle2q3pfk1u012kv09.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sacPractices"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
